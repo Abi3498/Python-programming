@@ -1,0 +1,2 @@
+s='programmer'
+print ("length is:",len(s))
