@@ -1,0 +1,4 @@
+s='programmer'
+a=s.count('r')
+b=s.find('g')
+c=s.replace('m','y')
